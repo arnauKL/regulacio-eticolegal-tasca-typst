@@ -8,3 +8,5 @@ Per compilar el pdf de manera local:
 ```bash
 typst compile main.typ
 ```
+
+[projecte typst](https://github.com/typst/typst)
